@@ -1,0 +1,14 @@
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier,
+    monospace;
+  line-height: 10px;
+  color: var(--text-normal);
+  vertical-align: middle;
+  background-color: var(--background-secondary);
+  border: solid 1px var(--background-modifier-border);
+  border-bottom-color: var(--background-modifier-border-hover);
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 var(--background-modifier-border-hover);
+}

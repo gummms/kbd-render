@@ -1,0 +1,10 @@
+{
+  "id": "kbd-render",
+  "name": "KBD Key Render",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Renders !key! syntax as a styled keyboard key.",
+  "author": "Gustavo Mendes",
+  "authorUrl": "https://github.com/gummms",
+  "isDesktopOnly": false
+}
