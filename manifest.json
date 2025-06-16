@@ -1,6 +1,6 @@
 {
   "id": "kbd-render",
-  "name": "KBD Key Render",
+  "name": "KBD-Render",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Renders !key! syntax as a styled keyboard key.",
