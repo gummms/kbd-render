@@ -1,7 +1,7 @@
 {
   "id": "kbd-render",
   "name": "KBD-Render",
-  "version": "1.2",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Renders ´key´ syntax as a styled keyboard key.",
   "author": "Gustavo Mendes",
