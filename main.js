@@ -8,7 +8,7 @@ module.exports = class KbdRenderPlugin extends Plugin {
       this.app.workspace.on("editor-change", (editor, view) => {
         const cursor = editor.getCursor();
         const line = editor.getLine(cursor.line);
-        const kbdRegex = /!([^!]+)!/g;
+        const kbdRegex = /´([^´]+)´/g;
         const updatedLine = line.replace(kbdRegex, "<kbd>$1</kbd>");
 
         if (line !== updatedLine) {
