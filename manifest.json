@@ -6,5 +6,6 @@
   "description": "Renders ´key´ syntax as a styled keyboard key.",
   "author": "Gustavo Mendes",
   "authorUrl": "https://github.com/gummms",
+  "repo": "gummms/kbd-render",
   "isDesktopOnly": false
 }
